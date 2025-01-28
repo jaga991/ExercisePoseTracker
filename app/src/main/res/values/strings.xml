@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExercisePoseTracker</string>
+    <string name="push_up">Push Up Icon</string>
+    <string name="subtract_button">Subtract</string>
 </resources>
